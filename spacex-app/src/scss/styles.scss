@@ -1,13 +1,10 @@
+@import "./utils/bootstrap.scss";
+@import "./elements/buttons.scss";
 :root {
 	--bs-body-color: #fffffF;
 	--bs-body-bg: #010001;
 }
-.hero {
-	padding-top: 120px;
-}
-.mb-220px {
-	margin-bottom: 220px;
-}
+
 .fs-12px {
 	font-size: 12px;
 }
